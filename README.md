@@ -30,11 +30,11 @@
 # 排序
 
 # 指针
-1. [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [题目截图](./array/container_with_most_water/container_with_most_water.jpg) | [题解](./array/container_with_most_water/container_with_most_water.md)
+1. [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [题目截图](./pointer/container_with_most_water/container_with_most_water.jpg) | [题解](./pointer/container_with_most_water/container_with_most_water.md)
 
-2. [三数之和](https://leetcode-cn.com/problems/3sum/) | [题目截图](./array/container_with_most_water/three_sum.jpg) | [题解](./array/container_with_most_water/three_sum.md)
+2. [三数之和](https://leetcode-cn.com/problems/3sum/) | [题目截图](./pointer/three_sum/three_sum.jpg) | [题解](./pointer/three_sum/three_sum.md)
 
-3. [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | [题目截图](./array/container_with_most_water/three_sum_closest.jpg) | [题解](./array/container_with_most_water/three_sum_closest.md)
+3. [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | [题目截图](./pointer/three_sum_closest/three_sum_closest.jpg) | [题解](./pointer/three_sum_closest/three_sum_closest.md)
 
 
 
@@ -48,8 +48,8 @@
 # 题目总列表
 1. [两数之和](https://leetcode-cn.com/problems/two-sum/) | [题目截图](./array/two_sum/two_sum.jpg) | [题解](./array/two_sum/two_sum.md)
 
-2. [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [题目截图](./array/container_with_most_water/container_with_most_water.jpg) | [题解](./array/container_with_most_water/container_with_most_water.md)
+2. [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [题目截图](./pointer/container_with_most_water/container_with_most_water.jpg) | [题解](./pointer/container_with_most_water/container_with_most_water.md)
 
-3. [三数之和](https://leetcode-cn.com/problems/3sum/) | [题目截图](./array/container_with_most_water/three_sum.jpg) | [题解](./array/container_with_most_water/three_sum.md)
+3. [三数之和](https://leetcode-cn.com/problems/3sum/) | [题目截图](./pointer/three_sum/three_sum.jpg) | [题解](./pointer/three_sum/three_sum.md)
 
-4. [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | [题目截图](./array/container_with_most_water/three_sum_closest.jpg) | [题解](./array/container_with_most_water/three_sum_closest.md)
+4. [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | [题目截图](./pointer/three_sum_closest/three_sum_closest.jpg) | [题解](./pointer/three_sum_closest/three_sum_closest.md)
