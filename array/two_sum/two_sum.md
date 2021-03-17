@@ -1,7 +1,7 @@
 # Two_Sum
 
 ## 题目截图
- [](/two_sum.jpg)
+ ![](two_sum.jpg)
 
 ## 思路一 字典
 
