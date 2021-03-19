@@ -73,3 +73,5 @@
 6. [搜索旋转排序数组](https://leetcode-cn.com/problems/3sum-closest/) | [题目截图](./array/search_in_rotated_sorted_array/search_in_rotated_sorted_array.jpg) | [题解](./array/search_in_rotated_sorted_array/search_in_rotated_sorted_array.md)
 
 7. [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/3sum-closest/) | [题目截图](./array/find_first_and_last_position_of_element_in_sorted_array/find_first_and_last_position_of_element_in_sorted_array.jpg) | [题解](./array/find_first_and_last_position_of_element_in_sorted_array/find_first_and_last_position_of_element_in_sorted_array.md)
+
+8. [组合总和](https://leetcode-cn.com/problems/combination-sum/) | [题目截图](./recursion/combination_sum/combination_sum.jpg) | [题解](./recursion/combination_sum/combination_sum.md)
