@@ -58,6 +58,8 @@
 
 ## 动态规划
 
+1. [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [题目截图](./dynamic_programming/maximum_subarray/maximum_subarray.jpg) | [题解](./dynamic_programming/maximum_subarray/maximum_subarray.md)
+
 ## 滑动窗口
 
 
@@ -79,3 +81,5 @@
 8. [组合总和](https://leetcode-cn.com/problems/combination-sum/) | [题目截图](./recursion/combination_sum/combination_sum.jpg) | [题解](./recursion/combination_sum/combination_sum.md)
 
 9. [旋转图像](https://leetcode-cn.com/problems/rotate-image/) | [题目截图](./array/rotate_image/rotate_image.jpg) | [题解](./array/rotate_image/rotate_image.md)
+
+10. [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [题目截图](./dynamic_programming/maximum_subarray/maximum_subarray.jpg) | [题解](./dynamic_programming/maximum_subarray/maximum_subarray.md)
