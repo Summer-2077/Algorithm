@@ -1,4 +1,4 @@
-# Two_Sum
+# next_permutation
 
 ## 题目截图
  ![](next_permutation.jpg)

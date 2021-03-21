@@ -1,4 +1,4 @@
-# three_sum
+# three_sum_closest
 
 ## 题目截图
  ![](three_sum_closest.jpg)

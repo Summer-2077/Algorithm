@@ -37,6 +37,8 @@
 
 5. [旋转图像](https://leetcode-cn.com/problems/rotate-image/) | [题目截图](./array/rotate_image/rotate_image.jpg) | [题解](./array/rotate_image/rotate_image.md)
 
+6. [合并区间](https://leetcode-cn.com/problems/merge-intervals/) | [题目截图](./array/merge_intervals/merge_intervals.jpg) | [题解](./array/merge_intervals/merge_intervals.md)
+
 
 ## 递归
 
@@ -61,6 +63,8 @@
 1. [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [题目截图](./dynamic_programming/maximum_subarray/maximum_subarray.jpg) | [题解](./dynamic_programming/maximum_subarray/maximum_subarray.md)
 
 2. [跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [题目截图](./dynamic_programming/jump_game/jump_game.jpg) | [题解](./dynamic_programming/jump_game/jump_game.md)
+
+3. [不同路径](https://leetcode-cn.com/problems/unique-paths/) | [题目截图](./dynamic_programming/unique_paths/unique_paths.jpg) | [题解](./dynamic_programming/unique_paths/unique_paths.md)
 
 ## 滑动窗口
 
@@ -87,3 +91,7 @@
 10. [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [题目截图](./dynamic_programming/maximum_subarray/maximum_subarray.jpg) | [题解](./dynamic_programming/maximum_subarray/maximum_subarray.md)
 
 11. [跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [题目截图](./dynamic_programming/jump_game/jump_game.jpg) | [题解](./dynamic_programming/jump_game/jump_game.md)
+
+12. [合并区间](https://leetcode-cn.com/problems/merge-intervals/) | [题目截图](./array/merge_intervals/merge_intervals.jpg) | [题解](./array/merge_intervals/merge_intervals.md)
+
+13. [不同路径](https://leetcode-cn.com/problems/unique-paths/) | [题目截图](./dynamic_programming/unique_paths/unique_paths.jpg) | [题解](./dynamic_programming/unique_paths/unique_paths.md)

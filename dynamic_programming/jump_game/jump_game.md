@@ -1,5 +1,5 @@
 
-# Two_Sum
+# jump_game
 
 ## 题目截图
  ![](jump_game.jpg)
