@@ -54,6 +54,8 @@
 
 3. [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) | [题目截图](./pointer/three_sum_closest/three_sum_closest.jpg) | [题解](./pointer/three_sum_closest/three_sum_closest.md)
 
+4. [颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [题目截图](./pointer/sort_colors/sort_colors.jpg) | [题解](./pointer/sort_colors/sort_colors.md)
+
 
 
 ## 位运算
@@ -95,3 +97,5 @@
 12. [合并区间](https://leetcode-cn.com/problems/merge-intervals/) | [题目截图](./array/merge_intervals/merge_intervals.jpg) | [题解](./array/merge_intervals/merge_intervals.md)
 
 13. [不同路径](https://leetcode-cn.com/problems/unique-paths/) | [题目截图](./dynamic_programming/unique_paths/unique_paths.jpg) | [题解](./dynamic_programming/unique_paths/unique_paths.md)
+
+14. [颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [题目截图](./pointer/sort_colors/sort_colors.jpg) | [题解](./pointer/sort_colors/sort_colors.md)
