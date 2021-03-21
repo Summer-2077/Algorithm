@@ -37,4 +37,3 @@
                     while i < j and nums[i] == nums[i - 1]: i += 1
                     while i < j and nums[j] == nums[j + 1]: j -= 1
         return res
- 
