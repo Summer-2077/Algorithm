@@ -42,18 +42,22 @@
 
 7. [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [题目截图](./array/best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.jpg) | [题解](./array/best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.md)
 
+8. [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | [题目截图](./array/product_of_array_except_self/product_of_array_except_self.jpg) | [题解](./array/product_of_array_except_self/product_of_array_except_self.md)
+
 
 ## 递归
 
 1. [组合总和](https://leetcode-cn.com/problems/combination-sum/) | [题目截图](./recursion/combination_sum/combination_sum.jpg) | [题解](./recursion/combination_sum/combination_sum.md)
 
 ## 回溯
+
 1. [单词搜索](https://leetcode-cn.com/problems/word-search/) | [题目截图](./backtrack/word_search/word_search.jpg) | [题解](./backtrack/word_search/word_search.md)
 
 
 ## 排序
 
 ## 指针
+
 1. [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [题目截图](./pointer/container_with_most_water/container_with_most_water.jpg) | [题解](./pointer/container_with_most_water/container_with_most_water.md)
 
 2. [三数之和](https://leetcode-cn.com/problems/3sum/) | [题目截图](./pointer/three_sum/three_sum.jpg) | [题解](./pointer/three_sum/three_sum.md)
@@ -109,3 +113,5 @@
 15. [单词搜索](https://leetcode-cn.com/problems/word-search/) | [题目截图](./backtrack/word_search/word_search.jpg) | [题解](./backtrack/word_search/word_search.md)
 
 16. [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [题目截图](./array/best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.jpg) | [题解](./array/best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.md)
+
+17. [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | [题目截图](./array/product_of_array_except_self/product_of_array_except_self.jpg) | [题解](./array/product_of_array_except_self/product_of_array_except_self.md)
