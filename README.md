@@ -13,6 +13,7 @@
 - [栈](##栈)
 - [列表](##列表)
 - [递归](##递归)
+- [回溯](##回溯)
 - [排序](##排序)
 - [指针](##指针)
 - [位运算](##位运算)
@@ -39,10 +40,15 @@
 
 6. [合并区间](https://leetcode-cn.com/problems/merge-intervals/) | [题目截图](./array/merge_intervals/merge_intervals.jpg) | [题解](./array/merge_intervals/merge_intervals.md)
 
+7. [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [题目截图](./array/best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.jpg) | [题解](./array/best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.md)
+
 
 ## 递归
 
 1. [组合总和](https://leetcode-cn.com/problems/combination-sum/) | [题目截图](./recursion/combination_sum/combination_sum.jpg) | [题解](./recursion/combination_sum/combination_sum.md)
+
+## 回溯
+1. [单词搜索](https://leetcode-cn.com/problems/word-search/) | [题目截图](./backtrack/word_search/word_search.jpg) | [题解](./backtrack/word_search/word_search.md)
 
 
 ## 排序
@@ -99,3 +105,7 @@
 13. [不同路径](https://leetcode-cn.com/problems/unique-paths/) | [题目截图](./dynamic_programming/unique_paths/unique_paths.jpg) | [题解](./dynamic_programming/unique_paths/unique_paths.md)
 
 14. [颜色分类](https://leetcode-cn.com/problems/sort-colors/) | [题目截图](./pointer/sort_colors/sort_colors.jpg) | [题解](./pointer/sort_colors/sort_colors.md)
+
+15. [单词搜索](https://leetcode-cn.com/problems/word-search/) | [题目截图](./backtrack/word_search/word_search.jpg) | [题解](./backtrack/word_search/word_search.md)
+
+16. [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [题目截图](./array/best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.jpg) | [题解](./array/best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.md)
