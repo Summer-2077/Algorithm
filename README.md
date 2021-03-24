@@ -52,6 +52,10 @@
 
 12. [和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | [题目截图](./array/subarray_sum_equals_k/subarray_sum_equals_k.jpg) | [题解](./array/subarray_sum_equals_k/subarray_sum_equals_k.md)
 
+13. [最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) | [题目截图](./array/shortest_unsorted_continuous_subarray/shortest_unsorted_continuous_subarray.jpg) | [题解](./array/shortest_unsorted_continuous_subarray/shortest_unsorted_continuous_subarray.md)
+
+14. [任务调度器](https://leetcode-cn.com/problems/task-scheduler/) | [题目截图](./array/task_scheduler/task_scheduler.jpg) | [题解](./array/task_scheduler/task_scheduler.md)
+
 
 ## 递归
 
@@ -131,3 +135,7 @@
 20. [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [题目截图](./array/find_the_duplicate_number/find_the_duplicate_number.jpg) | [题解](./array/find_the_duplicate_number/find_the_duplicate_number.md)
 
 21. [和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | [题目截图](./array/subarray_sum_equals_k/subarray_sum_equals_k.jpg) | [题解](./array/subarray_sum_equals_k/subarray_sum_equals_k.md)
+
+22. [最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) | [题目截图](./array/shortest_unsorted_continuous_subarray/shortest_unsorted_continuous_subarray.jpg) | [题解](./array/shortest_unsorted_continuous_subarray/shortest_unsorted_continuous_subarray.md)
+
+23. [任务调度器](https://leetcode-cn.com/problems/task-scheduler/) | [题目截图](./array/task_scheduler/task_scheduler.jpg) | [题解](./array/task_scheduler/task_scheduler.md)
