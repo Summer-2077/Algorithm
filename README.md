@@ -44,6 +44,14 @@
 
 8. [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | [题目截图](./array/product_of_array_except_self/product_of_array_except_self.jpg) | [题解](./array/product_of_array_except_self/product_of_array_except_self.md)
 
+9. [移动零](https://leetcode-cn.com/problems/move-zeroes/) | [题目截图](./array/move_zeroes/move_zeroes.jpg) | [题解](./array/move_zeroes/move_zeroes.md)
+
+10. [找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [题目截图](./array/find_all_numbers_disappeared_in_an_array/find_all_numbers_disappeared_in_an_array.jpg) | [题解](./array/find_all_numbers_disappeared_in_an_array/find_all_numbers_disappeared_in_an_array.md)
+
+11. [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [题目截图](./array/find_the_duplicate_number/find_the_duplicate_number.jpg) | [题解](./array/find_the_duplicate_number/find_the_duplicate_number.md)
+
+12. [和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | [题目截图](./array/subarray_sum_equals_k/subarray_sum_equals_k.jpg) | [题解](./array/subarray_sum_equals_k/subarray_sum_equals_k.md)
+
 
 ## 递归
 
@@ -115,3 +123,11 @@
 16. [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) | [题目截图](./array/best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.jpg) | [题解](./array/best_time_to_buy_and_sell_stock/best_time_to_buy_and_sell_stock.md)
 
 17. [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) | [题目截图](./array/product_of_array_except_self/product_of_array_except_self.jpg) | [题解](./array/product_of_array_except_self/product_of_array_except_self.md)
+
+18. [移动零](https://leetcode-cn.com/problems/move-zeroes/) | [题目截图](./array/move_zeroes/move_zeroes.jpg) | [题解](./array/move_zeroes/move_zeroes.md)
+
+19. [找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [题目截图](./array/find_all_numbers_disappeared_in_an_array/find_all_numbers_disappeared_in_an_array.jpg) | [题解](./array/find_all_numbers_disappeared_in_an_array/find_all_numbers_disappeared_in_an_array.md)
+
+20. [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) | [题目截图](./array/find_the_duplicate_number/find_the_duplicate_number.jpg) | [题解](./array/find_the_duplicate_number/find_the_duplicate_number.md)
+
+21. [和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/) | [题目截图](./array/subarray_sum_equals_k/subarray_sum_equals_k.jpg) | [题解](./array/subarray_sum_equals_k/subarray_sum_equals_k.md)
