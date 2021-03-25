@@ -70,6 +70,12 @@
 
 6. [排序链表](https://leetcode-cn.com/problems/sort-list/) | [题目截图](./linked_list/sort_list/sort_list.jpg) | [题解](./linked_list/sort_list/sort_list.md)
 
+7. [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [题目截图](./linked_list/intersection_of_two_linked_lists/intersection_of_two_linked_lists.jpg) | [题解](./linked_list/intersection_of_two_linked_lists/intersection_of_two_linked_lists.md)
+
+8. [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [题目截图](./linked_list/reverse_linked_list/reverse_linked_list.jpg) | [题解](./linked_list/reverse_linked_list/reverse_linked_list.md)
+
+9. [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | [题目截图](./linked_list/palindrome_linked_list/palindrome_linked_list.jpg) | [题解](./linked_list/palindrome_linked_list/palindrome_linked_list.md)
+
 
 
 ## 递归
@@ -166,3 +172,9 @@
 28. [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) | [题目截图](./linked_list/linked_list_cycle/linked_list_cycle.jpg) | [题解](./linked_list/linked_list_cycle/linked_list_cycle.md)
 
 29. [排序链表](https://leetcode-cn.com/problems/sort-list/) | [题目截图](./linked_list/sort_list/sort_list.jpg) | [题解](./linked_list/sort_list/sort_list.md)
+
+30. [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) | [题目截图](./linked_list/intersection_of_two_linked_lists/intersection_of_two_linked_lists.jpg) | [题解](./linked_list/intersection_of_two_linked_lists/intersection_of_two_linked_lists.md)
+
+31. [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [题目截图](./linked_list/reverse_linked_list/reverse_linked_list.jpg) | [题解](./linked_list/reverse_linked_list/reverse_linked_list.md)
+
+32. [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | [题目截图](./linked_list/palindrome_linked_list/palindrome_linked_list.jpg) | [题解](./linked_list/palindrome_linked_list/palindrome_linked_list.md)
