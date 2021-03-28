@@ -3,7 +3,9 @@
 
 
 # 心得总结
-- 二分查找 | [CSDN]() | [知乎]()
+- 二分查找 | [CSDN]() | [知乎]() 
+- 单调栈 | [CSDN]() | [知乎]() 
+    - 例题： [栈](##栈1.)  1、2
 
 
 # 题目分类
@@ -18,14 +20,22 @@
 - [排序](##排序)
 - [指针](##指针)
 - [位运算](##位运算)
+- [哈希表](##哈希表)
 - [动态规划](##动态规划)
 - [滑动窗口](##滑动窗口)
 
 ## 堆
 
+1. [前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [题目截图](./heap/top_k_frequent_elements/top_k_frequent_elements.jpg) | [题解](./heap/top_k_frequent_elements/top_k_frequent_elements.md)
+
+
 ## 树
 
 ## 栈
+
+1. [每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | [题目截图](./stack/daily_temperatures/daily_temperatures.jpg) | [题解](./stack/daily_temperatures/daily_temperatures.md)
+
+2. [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | [题目截图](./stack/largest_rectangle_in_histogram/largest_rectangle_in_histogram.jpg) | [题解](./stack/largest_rectangle_in_histogram/largest_rectangle_in_histogram.md)
 
 ## 列表
 
@@ -58,6 +68,7 @@
 14. [任务调度器](https://leetcode-cn.com/problems/task-scheduler/) | [题目截图](./array/task_scheduler/task_scheduler.jpg) | [题解](./array/task_scheduler/task_scheduler.md)
 
 ## 链表
+
 1. [两数相加](https://leetcode-cn.com/problems/two-sum/) | [题目截图](./linked_list/add_two_numbers/add_two_numbers.jpg) | [题解](./linked_list/add_two_numbers/add_two_numbers.md)
 
 2. [删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) | [题目截图](./linked_list/remove_nth_node_from_end_of_list/remove_nth_node_from_end_of_list.jpg) | [题解](./linked_list/remove_nth_node_from_end_of_list/remove_nth_node_from_end_of_list.md)
@@ -103,13 +114,25 @@
 
 ## 位运算
 
+1. [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [题目截图](./bit_operation/single_number/single_number.jpg) | [题解](./bit_operation/single_number/single_number.md)
+
+
+## 哈希表
+
+1. [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [题目截图](./hash_table/longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.jpg) | [题解](./hash_table/longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.md)
+
+2. [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | [题目截图](./hash_table/group_anagrams/group_anagrams.jpg) | [题解](./hash_table/group_anagrams/group_anagrams.md)
+
+3. [找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/) | [题目截图](./hash_table/find_all_anagrams_in_a_string/find_all_anagrams_in_a_string.jpg) | [题解](./hash_table/find_all_anagrams_in_a_string/find_all_anagrams_in_a_string.md)
+
+
 ## 动态规划
 
 1. [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/) | [题目截图](./dynamic_programming/maximum_subarray/maximum_subarray.jpg) | [题解](./dynamic_programming/maximum_subarray/maximum_subarray.md)
 
 2. [跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [题目截图](./dynamic_programming/jump_game/jump_game.jpg) | [题解](./dynamic_programming/jump_game/jump_game.md)
 
-3. [不同路径](https://leetcode-cn.com/problems/unique-paths/) | [题目截图](./dynamic_programming/unique_paths/unique_paths.jpg) | [题解](./dynamic_programming/unique_paths/unique_paths.md)
+3. [二叉树的中序遍历](https://leetcode-cn.com/problems/unique-paths/) | [题目截图](./dynamic_programming/unique_paths/unique_paths.jpg) | [题解](./dynamic_programming/unique_paths/unique_paths.md)
 
 ## 滑动窗口
 
@@ -178,3 +201,16 @@
 31. [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) | [题目截图](./linked_list/reverse_linked_list/reverse_linked_list.jpg) | [题解](./linked_list/reverse_linked_list/reverse_linked_list.md)
 
 32. [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | [题目截图](./linked_list/palindrome_linked_list/palindrome_linked_list.jpg) | [题解](./linked_list/palindrome_linked_list/palindrome_linked_list.md)
+
+33. [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) | [题目截图](./hash_table/longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.jpg) | [题解](./hash_table/longest_substring_without_repeating_characters/longest_substring_without_repeating_characters.md)
+
+34. [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/) | [题目截图](./hash_table/group_anagrams/group_anagrams.jpg) | [题解](./hash_table/group_anagrams/group_anagrams.md)
+
+35. [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [题目截图](./bit_operation/single_number/single_number.jpg) | [题解](./bit_operation/single_number/single_number.md)
+
+36. [前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [题目截图](./heap/top_k_frequent_elements/top_k_frequent_elements.jpg) | [题解](./heap/top_k_frequent_elements/top_k_frequent_elements.md)
+
+37. [找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/) | [题目截图](./hash_table/find_all_anagrams_in_a_string/find_all_anagrams_in_a_string.jpg) | [题解](./hash_table/find_all_anagrams_in_a_string/find_all_anagrams_in_a_string.md)
+
+38. [每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | [题目截图](./stack/daily_temperatures/daily_temperatures.jpg) | [题解](./stack/daily_temperatures/daily_temperatures.md)
+
