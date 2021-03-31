@@ -9,7 +9,7 @@
 
 这样能保证当前进栈元素若大于栈顶元素那就是**首个大于栈顶元素**的元素
   
-  
+
     class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
         # 单调栈

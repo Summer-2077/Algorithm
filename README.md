@@ -5,7 +5,7 @@
 # 心得总结
 - 二分查找 | [CSDN]() | [知乎]() 
 - 单调栈 | [CSDN]() | [知乎]() 
-    - 例题： [栈](##栈1.)  1、2
+    - 例题： [栈](##栈1.)  1、2、3
 
 
 # 题目分类
@@ -36,6 +36,10 @@
 1. [每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | [题目截图](./stack/daily_temperatures/daily_temperatures.jpg) | [题解](./stack/daily_temperatures/daily_temperatures.md)
 
 2. [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/) | [题目截图](./stack/largest_rectangle_in_histogram/largest_rectangle_in_histogram.jpg) | [题解](./stack/largest_rectangle_in_histogram/largest_rectangle_in_histogram.md)
+
+3. [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | [题目截图](./stack/trapping_rain_water/trapping_rain_water.jpg) | [题解](./stack/trapping_rain_water/trapping_rain_water.md)
+
+4. [最小栈](https://leetcode-cn.com/problems/min-stack/) | [题目截图](./stack/min_stack/min_stack.jpg) | [题解](./stack/min_stack/min_stack.md)
 
 ## 列表
 
@@ -93,9 +97,15 @@
 
 1. [组合总和](https://leetcode-cn.com/problems/combination-sum/) | [题目截图](./recursion/combination_sum/combination_sum.jpg) | [题解](./recursion/combination_sum/combination_sum.md)
 
+2. [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [题目截图](./recursion/letter_combinations_of_a_phone_number/letter_combinations_of_a_phone_number.jpg) | [题解](./recursion/letter_combinations_of_a_phone_number/letter_combinations_of_a_phone_number.md)
+
+3. [字符串解码](https://leetcode-cn.com/problems/decode-string/) | [题目截图](./recursion/decode_string/decode_string.jpg) | [题解](./recursion/decode_string/decode_string.md)
+
 ## 回溯
 
 1. [单词搜索](https://leetcode-cn.com/problems/word-search/) | [题目截图](./backtrack/word_search/word_search.jpg) | [题解](./backtrack/word_search/word_search.md)
+
+2. [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [题目截图](./backtrack/generate_parentheses/generate_parentheses.jpg) | [题解](./backtrack/generate_parentheses/generate_parentheses.md)
 
 
 ## 排序
@@ -133,6 +143,8 @@
 2. [跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [题目截图](./dynamic_programming/jump_game/jump_game.jpg) | [题解](./dynamic_programming/jump_game/jump_game.md)
 
 3. [二叉树的中序遍历](https://leetcode-cn.com/problems/unique-paths/) | [题目截图](./dynamic_programming/unique_paths/unique_paths.jpg) | [题解](./dynamic_programming/unique_paths/unique_paths.md)
+
+4. [回文子串](https://leetcode-cn.com/problems/palindromic-substrings/) | [题目截图](./dynamic_programming/palindromic_substrings/palindromic_substrings.jpg) | [题解](./dynamic_programming/palindromic_substrings/palindromic_substrings.md)
 
 ## 滑动窗口
 
@@ -214,3 +226,14 @@
 
 38. [每日温度](https://leetcode-cn.com/problems/daily-temperatures/) | [题目截图](./stack/daily_temperatures/daily_temperatures.jpg) | [题解](./stack/daily_temperatures/daily_temperatures.md)
 
+39. [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/) | [题目截图](./stack/trapping_rain_water/trapping_rain_water.jpg) | [题解](./stack/trapping_rain_water/trapping_rain_water.md)
+
+40. [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [题目截图](./recursion/letter_combinations_of_a_phone_number/letter_combinations_of_a_phone_number.jpg) | [题解](./recursion/letter_combinations_of_a_phone_number/letter_combinations_of_a_phone_number.md)
+
+41. [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [题目截图](./backtrack/generate_parentheses/generate_parentheses.jpg) | [题解](./backtrack/generate_parentheses/generate_parentheses.md)
+
+42. [回文子串](https://leetcode-cn.com/problems/palindromic-substrings/) | [题目截图](./dynamic_programming/palindromic_substrings/palindromic_substrings.jpg) | [题解](./dynamic_programming/palindromic_substrings/palindromic_substrings.md)
+
+43. [最小栈](https://leetcode-cn.com/problems/min-stack/) | [题目截图](./stack/min_stack/min_stack.jpg) | [题解](./stack/min_stack/min_stack.md)
+
+44. [字符串解码](https://leetcode-cn.com/problems/decode-string/) | [题目截图](./recursion/decode_string/decode_string.jpg) | [题解](./recursion/decode_string/decode_string.md)
