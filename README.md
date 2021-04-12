@@ -10,6 +10,7 @@
 
 # 题目分类
 - [题目总列表](#题目总列表)
+- [图](##图)
 - [堆](##堆)
 - [树](##树)
 - [栈](##栈)
@@ -24,12 +25,38 @@
 - [动态规划](##动态规划)
 - [滑动窗口](##滑动窗口)
 
+## 图
+
+1. [课程表](https://leetcode-cn.com/problems/course-schedule/) | [题目截图](./graph/course_schedule/course_schedule.jpg) | [题解](./graph/course_schedule/course_schedule.md)
+
+
+
+
 ## 堆
 
 1. [前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [题目截图](./heap/top_k_frequent_elements/top_k_frequent_elements.jpg) | [题解](./heap/top_k_frequent_elements/top_k_frequent_elements.md)
 
 
 ## 树
+
+1. [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [题目截图](./tree/unique_binary_search_trees/unique_binary_search_trees.jpg) | [题解](./tree/unique_binary_search_trees/unique_binary_search_trees.md)
+
+2. [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [题目截图](./tree/validate_binary_search_tree/validate_binary_search_tree.jpg) | [题解](./tree/validate_binary_search_tree/validate_binary_search_tree.md)
+
+3. [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [题目截图](./tree/symmetric_tree/symmetric_tree.jpg) | [题解](./tree/symmetric_tree/symmetric_tree.md)
+
+4. [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [题目截图](./tree/maximum_depth_of_binary_tree/maximum_depth_of_binary_tree.jpg) | [题解](./tree/maximum_depth_of_binary_tree/maximum_depth_of_binary_tree.md)
+
+5. ☆ [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [题目截图](./tree/lowest_common_ancestor_of_a_binary_tree/lowest_common_ancestor_of_a_binary_tree.jpg) | [题解](./tree/lowest_common_ancestor_of_a_binary_tree/lowest_common_ancestor_of_a_binary_tree.md)
+
+6. ☆ [路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) | [题目截图](./tree/path_sum_III/path_sum_III.jpg) | [题解](./tree/path_sum_III/path_sum_III.md) | 前缀和 + 回溯
+
+7. [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [题目截图](./tree/convert_BST_to_greater_tree/convert_BST_to_greater_tree.jpg) | [题解](./tree/convert_BST_to_greater_tree/convert_BST_to_greater_tree.md) | 逆向中序遍历
+
+8. [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [题目截图](./tree/diameter_of_binary_tree/diameter_of_binary_tree.jpg) | [题解](./tree/diameter_of_binary_tree/diameter_of_binary_tree.md)
+
+9. [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [题目截图](./tree/merge_two_binary_trees/merge_two_binary_trees.jpg) | [题解](./tree/merge_two_binary_trees/merge_two_binary_trees.md)
+ 
 
 ## 栈
 
@@ -71,6 +98,8 @@
 
 14. [任务调度器](https://leetcode-cn.com/problems/task-scheduler/) | [题目截图](./array/task_scheduler/task_scheduler.jpg) | [题解](./array/task_scheduler/task_scheduler.md)
 
+15. [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [题目截图](./array/queue_reconstruction_by_height/queue_reconstruction_by_height.jpg) | [题解](./array/queue_reconstruction_by_height/queue_reconstruction_by_height.md)
+
 ## 链表
 
 1. [两数相加](https://leetcode-cn.com/problems/two-sum/) | [题目截图](./linked_list/add_two_numbers/add_two_numbers.jpg) | [题解](./linked_list/add_two_numbers/add_two_numbers.md)
@@ -106,6 +135,8 @@
 1. [单词搜索](https://leetcode-cn.com/problems/word-search/) | [题目截图](./backtrack/word_search/word_search.jpg) | [题解](./backtrack/word_search/word_search.md)
 
 2. [括号生成](https://leetcode-cn.com/problems/generate-parentheses/) | [题目截图](./backtrack/generate_parentheses/generate_parentheses.jpg) | [题解](./backtrack/generate_parentheses/generate_parentheses.md)
+
+3. ☆[全排列](https://leetcode-cn.com/problems/permutations/) | [题目截图](./backtrack/permutations/permutations.jpg) | [题解](./backtrack/permutations/permutations.md) | 回溯
 
 
 ## 排序
@@ -145,6 +176,26 @@
 3. [二叉树的中序遍历](https://leetcode-cn.com/problems/unique-paths/) | [题目截图](./dynamic_programming/unique_paths/unique_paths.jpg) | [题解](./dynamic_programming/unique_paths/unique_paths.md)
 
 4. [回文子串](https://leetcode-cn.com/problems/palindromic-substrings/) | [题目截图](./dynamic_programming/palindromic_substrings/palindromic_substrings.jpg) | [题解](./dynamic_programming/palindromic_substrings/palindromic_substrings.md)
+
+5. ☆[打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/) | [题目截图](./dynamic_programming/house_robber_III/house_robber_III.jpg) | [题解](./dynamic_programming/house_robber_III/house_robber_III.md) | 树的动态规划
+
+6. [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [题目截图](./dynamic_programming/climbing_stairs/climbing_stairs.jpg) | [题解](./dynamic_programming/climbing_stairs/climbing_stairs.md)
+
+7. ☆[单词拆分](https://leetcode-cn.com/problems/climbing-stairs/) | [题目截图](./dynamic_programming/word_break/word_break.jpg) | [题解](./dynamic_programming/word_break/word_break.md) | 动态规划、DFS
+
+8. [打家劫舍](https://leetcode-cn.com/problems/house-robber/) | [题目截图](./dynamic_programming/house_robber/house_robber.jpg) | [题解](./dynamic_programming/house_robber/house_robber.md) | 动态规划
+
+9. ☆[最大正方形](https://leetcode-cn.com/problems/maximal-square/) | [题目截图](./dynamic_programming/maximal_square/maximal_square.jpg) | [题解](./dynamic_programming/maximal_square/maximal_square.md) | 动态规划
+
+10. ☆[完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | [题目截图](./dynamic_programming/perfect_squares/perfect_squares.jpg) | [题解](./dynamic_programming/perfect_squares/perfect_squares.md) | 动态规划
+
+11. [最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [题目截图](./dynamic_programming/longest_increasing_subsequence/longest_increasing_subsequence.jpg) | [题解](./dynamic_programming/longest_increasing_subsequence/longest_increasing_subsequence.md) | 动态规划
+
+12. [零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [题目截图](./dynamic_programming/coin_change/coin_change.jpg) | [题解](./dynamic_programming/coin_change/coin_change.md) | 动态规划
+
+13. [比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [题目截图](./dynamic_programming/counting_bits/counting_bits.jpg) | [题解](./dynamic_programming/counting_bits/counting_bits.md) | 动态规划、位运算
+
+14. ☆[分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [题目截图](./dynamic_programming/partition_equal_subset_sum/partition_equal_subset_sum.jpg) | [题解](./dynamic_programming/partition_equal_subset_sum/partition_equal_subset_sum.md) | 动态规划、背包问题
 
 ## 滑动窗口
 
@@ -237,3 +288,43 @@
 43. [最小栈](https://leetcode-cn.com/problems/min-stack/) | [题目截图](./stack/min_stack/min_stack.jpg) | [题解](./stack/min_stack/min_stack.md)
 
 44. [字符串解码](https://leetcode-cn.com/problems/decode-string/) | [题目截图](./recursion/decode_string/decode_string.jpg) | [题解](./recursion/decode_string/decode_string.md)
+
+45. [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/) | [题目截图](./tree/unique_binary_search_trees/unique_binary_search_trees.jpg) | [题解](./tree/unique_binary_search_trees/unique_binary_search_trees.md)
+
+46. [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [题目截图](./tree/validate_binary_search_tree/validate_binary_search_tree.jpg) | [题解](./tree/validate_binary_search_tree/validate_binary_search_tree.md)
+
+47. [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree/) | [题目截图](./tree/symmetric_tree/symmetric_tree.jpg) | [题解](./tree/symmetric_tree/symmetric_tree.md)
+
+48. [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [题目截图](./tree/maximum_depth_of_binary_tree/maximum_depth_of_binary_tree.jpg) | [题解](./tree/maximum_depth_of_binary_tree/maximum_depth_of_binary_tree.md)
+
+49. [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [题目截图](./tree/lowest_common_ancestor_of_a_binary_tree/lowest_common_ancestor_of_a_binary_tree.jpg) | [题解](./tree/lowest_common_ancestor_of_a_binary_tree/lowest_common_ancestor_of_a_binary_tree.md)
+
+50. [打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/) | [题目截图](./dynamic_programming/house_robber_III/house_robber_III.jpg) | [题解](./dynamic_programming/house_robber_III/house_robber_III.md)
+
+51. ☆ [路径总和 III](https://leetcode-cn.com/problems/path-sum-iii/) | [题目截图](./tree/path_sum_III/path_sum_III.jpg) | [题解](./tree/path_sum_III/path_sum_III.md) | 前缀和 + 回溯
+
+52. [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [题目截图](./tree/convert_BST_to_greater_tree/convert_BST_to_greater_tree.jpg) | [题解](./tree/convert_BST_to_greater_tree/convert_BST_to_greater_tree.md) | 逆向中序遍历
+
+53. [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [题目截图](./tree/diameter_of_binary_tree/diameter_of_binary_tree.jpg) | [题解](./tree/diameter_of_binary_tree/diameter_of_binary_tree.md)
+
+54. [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [题目截图](./tree/merge_two_binary_trees/merge_two_binary_trees.jpg) | [题解](./tree/merge_two_binary_trees/merge_two_binary_trees.md)
+
+55. ☆[全排列](https://leetcode-cn.com/problems/permutations/) | [题目截图](./backtrack/permutations/permutations.jpg) | [题解](./backtrack/permutations/permutations.md) | 回溯
+
+56. [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [题目截图](./array/queue_reconstruction_by_height/queue_reconstruction_by_height.jpg) | [题解](./array/queue_reconstruction_by_height/queue_reconstruction_by_height.md)
+
+57. [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) | [题目截图](./dynamic_programming/climbing_stairs/climbing_stairs.jpg) | [题解](./dynamic_programming/climbing_stairs/climbing_stairs.md)
+
+58. ☆[单词拆分](https://leetcode-cn.com/problems/climbing-stairs/) | [题目截图](./dynamic_programming/word_break/word_break.jpg) | [题解](./dynamic_programming/word_break/word_break.md) | 动态规划、DFS
+
+59. [打家劫舍](https://leetcode-cn.com/problems/house-robber/) | [题目截图](./dynamic_programming/house_robber/house_robber.jpg) | [题解](./dynamic_programming/house_robber/house_robber.md) | 动态规划
+
+60. ☆[最大正方形](https://leetcode-cn.com/problems/maximal-square/) | [题目截图](./dynamic_programming/maximal_square/maximal_square.jpg) | [题解](./dynamic_programming/maximal_square/maximal_square.md) | 动态规划
+
+61. ☆[完全平方数](https://leetcode-cn.com/problems/perfect-squares/) | [题目截图](./dynamic_programming/perfect_squares/perfect_squares.jpg) | [题解](./dynamic_programming/perfect_squares/perfect_squares.md) | 动态规划
+
+62. [零钱兑换](https://leetcode-cn.com/problems/coin-change/) | [题目截图](./dynamic_programming/coin_change/coin_change.jpg) | [题解](./dynamic_programming/coin_change/coin_change.md) | 动态规划
+
+63. [比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [题目截图](./dynamic_programming/counting_bits/counting_bits.jpg) | [题解](./dynamic_programming/counting_bits/counting_bits.md) | 动态规划、位运算
+
+64. ☆[分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [题目截图](./dynamic_programming/partition_equal_subset_sum/partition_equal_subset_sum.jpg) | [题解](./dynamic_programming/partition_equal_subset_sum/partition_equal_subset_sum.md) | 动态规划、背包问题
