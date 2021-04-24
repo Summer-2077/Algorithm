@@ -21,6 +21,7 @@
 - [排序](##排序)
 - [指针](##指针)
 - [位运算](##位运算)
+- [字符串](##字符串)
 - [哈希表](##哈希表)
 - [动态规划](##动态规划)
 - [滑动窗口](##滑动窗口)
@@ -35,6 +36,8 @@
 ## 堆
 
 1. [前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [题目截图](./heap/top_k_frequent_elements/top_k_frequent_elements.jpg) | [题解](./heap/top_k_frequent_elements/top_k_frequent_elements.md)
+
+2. ☆[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [题目截图](./heap/Kth_largest_element_in_an_array/Kth_largest_element_in_an_array.jpg) | [题解](./heap/Kth_largest_element_in_an_array/Kth_largest_element_in_an_array.md) | 堆
 
 
 ## 树
@@ -56,7 +59,17 @@
 8. [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [题目截图](./tree/diameter_of_binary_tree/diameter_of_binary_tree.jpg) | [题解](./tree/diameter_of_binary_tree/diameter_of_binary_tree.md)
 
 9. [合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees/) | [题目截图](./tree/merge_two_binary_trees/merge_two_binary_trees.jpg) | [题解](./tree/merge_two_binary_trees/merge_two_binary_trees.md)
- 
+
+10. ☆[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | [题目截图](./tree/implement_trie(prefix_tree)/implement_trie(prefix_tree).jpg) | [题解](./tree/implement_trie(prefix_tree)/implement_trie(prefix_tree).md) | 字典树
+
+11. ☆[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/) | [题目截图](./tree/binary_tree_maximum_path_sum/binary_tree_maximum_path_sum.jpg) | [题解](./tree/binary_tree_maximum_path_sum/binary_tree_maximum_path_sum.md) | dfs
+
+12. [二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [题目截图](./tree/binary_tree_right_side_view/binary_tree_right_side_view.jpg) | [题解](./tree/binary_tree_right_side_view/binary_tree_right_side_view.md) | dfs，bfs
+
+13. [路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | [题目截图](./tree/path_sum_II/path_sum_II.jpg) | [题解](./tree/path_sum_II/path_sum_II.md) | dfs 回溯
+
+14. ☆[从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [题目截图](./tree/construct_binary_tree_from_inorder_and_postorder_traversal/construct_binary_tree_from_inorder_and_postorder_traversal.jpg) | [题解](./tree/construct_binary_tree_from_inorder_and_postorder_traversal/construct_binary_tree_from_inorder_and_postorder_traversal.md) | dfs
+
 
 ## 栈
 
@@ -100,6 +113,10 @@
 
 15. [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [题目截图](./array/queue_reconstruction_by_height/queue_reconstruction_by_height.jpg) | [题解](./array/queue_reconstruction_by_height/queue_reconstruction_by_height.md)
 
+16. [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | [题目截图](./array/multiply_strings/multiply_strings.jpg) | [题解](./array/multiply_strings/multiply_strings.md)
+
+17. [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | [题目截图](./array/spiral_matrix/spiral_matrix.jpg) | [题解](./array/spiral_matrix/spiral_matrix.md)
+
 ## 链表
 
 1. [两数相加](https://leetcode-cn.com/problems/two-sum/) | [题目截图](./linked_list/add_two_numbers/add_two_numbers.jpg) | [题解](./linked_list/add_two_numbers/add_two_numbers.md)
@@ -120,6 +137,12 @@
 
 9. [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) | [题目截图](./linked_list/palindrome_linked_list/palindrome_linked_list.jpg) | [题解](./linked_list/palindrome_linked_list/palindrome_linked_list.md)
 
+10. [旋转链表](https://leetcode-cn.com/problems/rotate-list/) | [题目截图](./linked_list/rotate_list/rotate_list.jpg) | [题解](./linked_list/rotate_list/rotate_list.md)
+
+11. ☆[LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [题目截图](./linked_list/LRU_cache/LRU_cache.jpg) | [题解](./linked_list/LRU_cache/LRU_cache.md) | HashMap
+
+12. [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [题目截图](./linked_list/Kth_smallest_element_in_a_BST/Kth_smallest_element_in_a_BST.jpg) | [题解](./linked_list/Kth_smallest_element_in_a_BST/Kth_smallest_element_in_a_BST.md) 
+
 
 
 ## 递归
@@ -129,6 +152,8 @@
 2. [电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [题目截图](./recursion/letter_combinations_of_a_phone_number/letter_combinations_of_a_phone_number.jpg) | [题解](./recursion/letter_combinations_of_a_phone_number/letter_combinations_of_a_phone_number.md)
 
 3. [字符串解码](https://leetcode-cn.com/problems/decode-string/) | [题目截图](./recursion/decode_string/decode_string.jpg) | [题解](./recursion/decode_string/decode_string.md)
+
+4. [搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [题目截图](./recursion/search_a_2D_matrix_II/search_a_2D_matrix_II.jpg) | [题解](./recursion/search_a_2D_matrix_II/search_a_2D_matrix_II.md)
 
 ## 回溯
 
@@ -153,9 +178,17 @@
 
 
 
+## 字符串
+1. ☆[字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [题目截图](./string/atoi/atoi.jpg) | [题解](./string/atoi/atoi.md) | 字符串转数字 数字越界问题
+
+2. ☆[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [题目截图](./string/implement_strStr()/implement_strStr().jpg) | [题解](./string/implement_strStr()/implement_strStr().md) | KMP
+
+
 ## 位运算
 
 1. [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [题目截图](./bit_operation/single_number/single_number.jpg) | [题解](./bit_operation/single_number/single_number.md)
+
+2. [汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | [题目截图](./bit_operation/hamming_distance/hamming_distance.jpg) | [题解](./bit_operation/hamming_distance/hamming_distance.md)
 
 
 ## 哈希表
@@ -196,6 +229,12 @@
 13. [比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [题目截图](./dynamic_programming/counting_bits/counting_bits.jpg) | [题解](./dynamic_programming/counting_bits/counting_bits.md) | 动态规划、位运算
 
 14. ☆[分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [题目截图](./dynamic_programming/partition_equal_subset_sum/partition_equal_subset_sum.jpg) | [题解](./dynamic_programming/partition_equal_subset_sum/partition_equal_subset_sum.md) | 动态规划、背包问题
+
+15. ☆[目标和](https://leetcode-cn.com/problems/target-sum/) | [题目截图](./dynamic_programming/target_sum/target_sum.jpg) | [题解](./dynamic_programming/target_sum/target_sum.md) | 动态规划、背包问题
+
+16. ☆[格雷编码](https://leetcode-cn.com/problems/gray-code/) | [题目截图](./dynamic_programming/gray_code/gray_code.jpg) | [题解](./dynamic_programming/gray_code/gray_code.md) | 动态规划、格雷编码
+
+17. ☆[最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/) | [题目截图](./dynamic_programming/largest_divisible_subset/largest_divisible_subset.jpg) | [题解](./dynamic_programming/largest_divisible_subset/largest_divisible_subset.md) | 动态规划
 
 ## 滑动窗口
 
@@ -328,3 +367,37 @@
 63. [比特位计数](https://leetcode-cn.com/problems/counting-bits/) | [题目截图](./dynamic_programming/counting_bits/counting_bits.jpg) | [题解](./dynamic_programming/counting_bits/counting_bits.md) | 动态规划、位运算
 
 64. ☆[分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | [题目截图](./dynamic_programming/partition_equal_subset_sum/partition_equal_subset_sum.jpg) | [题解](./dynamic_programming/partition_equal_subset_sum/partition_equal_subset_sum.md) | 动态规划、背包问题
+
+65. ☆[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [题目截图](./heap/Kth_largest_element_in_an_array/Kth_largest_element_in_an_array.jpg) | [题解](./heap/Kth_largest_element_in_an_array/Kth_largest_element_in_an_array.md) | 堆
+
+66. ☆[目标和](https://leetcode-cn.com/problems/target-sum/) | [题目截图](./dynamic_programming/target_sum/target_sum.jpg) | [题解](./dynamic_programming/target_sum/target_sum.md) | 动态规划、背包问题
+
+67. [搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [题目截图](./recursion/search_a_2D_matrix_II/search_a_2D_matrix_II.jpg) | [题解](./recursion/search_a_2D_matrix_II/search_a_2D_matrix_II.md)
+
+68. ☆[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | [题目截图](./tree/implement_trie(prefix_tree)/implement_trie(prefix_tree).jpg) | [题解](./tree/implement_trie(prefix_tree)/implement_trie(prefix_tree).md) | 字典树
+
+69. [汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | [题目截图](./bit_operation/hamming_distance/hamming_distance.jpg) | [题解](./bit_operation/hamming_distance/hamming_distance.md)
+
+70. [旋转链表](https://leetcode-cn.com/problems/rotate-list/) | [题目截图](./linked_list/rotate_list/rotate_list.jpg) | [题解](./linked_list/rotate_list/rotate_list.md)
+
+71. [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) | [题目截图](./array/multiply_strings/multiply_strings.jpg) | [题解](./array/multiply_strings/multiply_strings.md)
+
+72. [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/) | [题目截图](./array/spiral_matrix/spiral_matrix.jpg) | [题解](./array/spiral_matrix/spiral_matrix.md)
+
+73. ☆[LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/) | [题目截图](./linked_list/LRU_cache/LRU_cache.jpg) | [题解](./linked_list/LRU_cache/LRU_cache.md) | HashMap
+
+74. ☆[字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/) | [题目截图](./string/atoi/atoi.jpg) | [题解](./string/atoi/atoi.md) | 字符串转数字 数字越界问题
+
+75. ☆[格雷编码](https://leetcode-cn.com/problems/gray-code/) | [题目截图](./dynamic_programming/gray_code/gray_code.jpg) | [题解](./dynamic_programming/gray_code/gray_code.md) | 动态规划、格雷编码
+
+76. [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [题目截图](./linked_list/Kth_smallest_element_in_a_BST/Kth_smallest_element_in_a_BST.jpg) | [题解](./linked_list/Kth_smallest_element_in_a_BST/Kth_smallest_element_in_a_BST.md) 
+
+77. [二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [题目截图](./tree/binary_tree_right_side_view/binary_tree_right_side_view.jpg) | [题解](./tree/binary_tree_right_side_view/binary_tree_right_side_view.md) | dfs，bfs
+
+78. [路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/) | [题目截图](./tree/path_sum_II/path_sum_II.jpg) | [题解](./tree/path_sum_II/path_sum_II.md) | dfs 回溯
+
+79. ☆[从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [题目截图](./tree/construct_binary_tree_from_inorder_and_postorder_traversal/construct_binary_tree_from_inorder_and_postorder_traversal.jpg) | [题解](./tree/construct_binary_tree_from_inorder_and_postorder_traversal/construct_binary_tree_from_inorder_and_postorder_traversal.md) | dfs
+
+80. ☆[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [题目截图](./string/implement_strStr()/implement_strStr().jpg) | [题解](./string/implement_strStr()/implement_strStr().md) | KMP
+
+81. ☆[最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/) | [题目截图](./dynamic_programming/largest_divisible_subset/largest_divisible_subset.jpg) | [题解](./dynamic_programming/largest_divisible_subset/largest_divisible_subset.md) | 动态规划
