@@ -155,6 +155,8 @@
 
 4. [搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [题目截图](./recursion/search_a_2D_matrix_II/search_a_2D_matrix_II.jpg) | [题解](./recursion/search_a_2D_matrix_II/search_a_2D_matrix_II.md)
 
+5. ☆[二叉树的中序遍历](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [题目截图](./recursion/binary_tree_inorder_traversal/binary_tree_inorder_traversal.jpg) | [题解](./recursion/binary_tree_inorder_traversal/binary_tree_inorder_traversal.md) | Morris中序遍历
+
 ## 回溯
 
 1. [单词搜索](https://leetcode-cn.com/problems/word-search/) | [题目截图](./backtrack/word_search/word_search.jpg) | [题解](./backtrack/word_search/word_search.md)
@@ -189,6 +191,10 @@
 1. [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) | [题目截图](./bit_operation/single_number/single_number.jpg) | [题解](./bit_operation/single_number/single_number.md)
 
 2. [汉明距离](https://leetcode-cn.com/problems/hamming-distance/) | [题目截图](./bit_operation/hamming_distance/hamming_distance.jpg) | [题解](./bit_operation/hamming_distance/hamming_distance.md)
+
+3. [解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | [题目截图](./bit_operation/decode_XORed_array/decode_XORed_array.jpg) | [题解](./bit_operation/decode_XORed_array/decode_XORed_array.md) | 异或的性质
+
+4. [解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/) | [题目截图](./bit_operation/decode_XORed_permutation/decode_XORed_permutation.jpg) | [题解](./bit_operation/decode_XORed_permutation/decode_XORed_permutation.md) | 异或的性质
 
 
 ## 哈希表
@@ -235,6 +241,11 @@
 16. ☆[格雷编码](https://leetcode-cn.com/problems/gray-code/) | [题目截图](./dynamic_programming/gray_code/gray_code.jpg) | [题解](./dynamic_programming/gray_code/gray_code.md) | 动态规划、格雷编码
 
 17. ☆[最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/) | [题目截图](./dynamic_programming/largest_divisible_subset/largest_divisible_subset.jpg) | [题解](./dynamic_programming/largest_divisible_subset/largest_divisible_subset.md) | 动态规划
+
+18. ☆[零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) | [题目截图](./dynamic_programming/coin_change_2/coin_change_2.jpg) | [题解](./dynamic_programming/coin_change_2/coin_change_2.md) | 动态规划、背包问题
+
+19. ☆[组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/) | [题目截图](./dynamic_programming/combination_sum_IV/combination_sum_IV.jpg) | [题解](./dynamic_programming/combination_sum_IV/combination_sum_IV.md) | 动态规划、背包问题
+
 
 ## 滑动窗口
 
@@ -401,3 +412,13 @@
 80. ☆[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr/) | [题目截图](./string/implement_strStr()/implement_strStr().jpg) | [题解](./string/implement_strStr()/implement_strStr().md) | KMP
 
 81. ☆[最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/) | [题目截图](./dynamic_programming/largest_divisible_subset/largest_divisible_subset.jpg) | [题解](./dynamic_programming/largest_divisible_subset/largest_divisible_subset.md) | 动态规划
+
+82. ☆[零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) | [题目截图](./dynamic_programming/coin_change_2/coin_change_2.jpg) | [题解](./dynamic_programming/coin_change_2/coin_change_2.md) | 动态规划、完全背包问题
+
+83. ☆[组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/) | [题目截图](./dynamic_programming/combination_sum_IV/combination_sum_IV.jpg) | [题解](./dynamic_programming/combination_sum_IV/combination_sum_IV.md) | 动态规划、背包问题
+
+84. ☆[二叉树的中序遍历](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [题目截图](./recursion/binary_tree_inorder_traversal/binary_tree_inorder_traversal.jpg) | [题解](./recursion/binary_tree_inorder_traversal/binary_tree_inorder_traversal.md) | Morris中序遍历
+
+85. [解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | [题目截图](./bit_operation/decode_XORed_array/decode_XORed_array.jpg) | [题解](./bit_operation/decode_XORed_array/decode_XORed_array.md) | 异或的性质
+
+86. [解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/) | [题目截图](./bit_operation/decode_XORed_permutation/decode_XORed_permutation.jpg) | [题解](./bit_operation/decode_XORed_permutation/decode_XORed_permutation.md) | 异或的性质
