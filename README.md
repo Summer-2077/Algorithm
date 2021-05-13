@@ -70,6 +70,8 @@
 
 14. ☆[从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [题目截图](./tree/construct_binary_tree_from_inorder_and_postorder_traversal/construct_binary_tree_from_inorder_and_postorder_traversal.jpg) | [题解](./tree/construct_binary_tree_from_inorder_and_postorder_traversal/construct_binary_tree_from_inorder_and_postorder_traversal.md) | dfs
 
+15. ☆[合法二叉搜索树](https://leetcode-cn.com/problems/legal-binary-search-tree-lcci/) | [题目截图](./tree/legal_binary_search_tree_LCCI/legal_binary_search_tree_LCCI.jpg) | [题解](./tree/legal_binary_search_tree_LCCI/legal_binary_search_tree_LCCI.md) | 中序遍历
+
 
 ## 栈
 
@@ -245,6 +247,8 @@
 18. ☆[零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) | [题目截图](./dynamic_programming/coin_change_2/coin_change_2.jpg) | [题解](./dynamic_programming/coin_change_2/coin_change_2.md) | 动态规划、背包问题
 
 19. ☆[组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/) | [题目截图](./dynamic_programming/combination_sum_IV/combination_sum_IV.jpg) | [题解](./dynamic_programming/combination_sum_IV/combination_sum_IV.md) | 动态规划、背包问题
+
+20. ☆[停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/) | [题目截图](./dynamic_programming/number_of_ways_to_stay_in_the_same_place_after_some_steps/number_of_ways_to_stay_in_the_same_place_after_some_steps.jpg) | [题解](./dynamic_programming/number_of_ways_to_stay_in_the_same_place_after_some_steps/number_of_ways_to_stay_in_the_same_place_after_some_steps.md) | 动态规划
 
 
 ## 滑动窗口
@@ -422,3 +426,5 @@
 85. [解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/) | [题目截图](./bit_operation/decode_XORed_array/decode_XORed_array.jpg) | [题解](./bit_operation/decode_XORed_array/decode_XORed_array.md) | 异或的性质
 
 86. [解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/) | [题目截图](./bit_operation/decode_XORed_permutation/decode_XORed_permutation.jpg) | [题解](./bit_operation/decode_XORed_permutation/decode_XORed_permutation.md) | 异或的性质
+
+87. ☆[合法二叉搜索树](https://leetcode-cn.com/problems/legal-binary-search-tree-lcci/) | [题目截图](./tree/legal_binary_search_tree_LCCI/legal_binary_search_tree_LCCI.jpg) | [题解](./tree/legal_binary_search_tree_LCCI/legal_binary_search_tree_LCCI.md) | 中序遍历
